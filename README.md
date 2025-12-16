@@ -1,5 +1,5 @@
 # ODAS
-ODAS学习文件夹
+ODAS代码架构思维导图
 ```mermaid
 mindmap
   root((ODAS 项目解析))
